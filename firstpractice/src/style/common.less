@@ -1,0 +1,29 @@
+@colorA:'red';
+
+div{
+    color:@colorA
+ 
+}
+
+
+.container{
+    display: flex;
+    //left
+    .nav-left{   
+        width:15%;
+        min-width:180px;
+        height:calc(100vh);
+        background-color: black;
+    }
+    //right
+    .main{
+        flex:1;
+        height:calc(100vh);
+        background-color: black;
+    }
+
+    .content{
+        position: relative;
+        padding:20px;
+    }
+}
