@@ -24,6 +24,8 @@ firstpractice:第一次学习组件的demo
 其实整体开发你只要搞懂了react结构路由/项目开发流程，加上antd模块化堆叠就能轻易上手
 
 projectCode:充电桩组件练习代码
+参考项目：https://github.com/duxianwei520/react
+教程：https://github.com/kdchang/reactjs101
 
 ![1](https://github.com/xingyushu/pile/blob/master/image-folder/1.png)
 ![2](https://github.com/xingyushu/pile/blob/master/image-folder/2.png)
