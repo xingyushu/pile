@@ -3,18 +3,12 @@ React and Antd  project demo
 ## 初始化项目
 
 ```
-  yarn install 
-``` or
-```
-   npm install
-```
-
+  yarn install    or     npm install
+``` 
 
 ## 运行项目
 
-```
- sudo yarn start
-```
+`sudo yarn start`
 
 
 
