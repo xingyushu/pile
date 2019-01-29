@@ -25,5 +25,5 @@ firstpractice:第一次学习组件的demo
 
 projectCode:充电桩组件练习代码
 
-![1](https://github.com/xingyushu/pile/blob/master/img-folder/1.png)
+![1](https://github.com/xingyushu/pile/blob/master/image-folder/1.png)
 
