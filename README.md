@@ -10,7 +10,7 @@ React and Antd  project demo
 
 `sudo yarn start`
 
-
+缺失的包可以通过  yarn add  包名/npm install包名
 
 firstpractice:第一次学习组件的demo
 可以按照以下大纲来学习react和antd
@@ -23,4 +23,7 @@ firstpractice:第一次学习组件的demo
 7. React项目开发 百度地图api等  
 
 
-projectCode:
+projectCode:充电桩组件练习代码
+
+![1](https://github.com/xingyushu/pile/blob/master/img-folder/1.png)
+
